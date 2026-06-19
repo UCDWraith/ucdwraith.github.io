@@ -3,7 +3,7 @@ layout: splash
 title: "UCDWraith"
 permalink: /
 header:
-  overlay_image: /assets/images/UCDWraith-logo.png
+  overlay_image: /assets/images/ucdwraith-hero.png
   overlay_filter: 0.65
   actions:
     - label: "View Work"
