@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: "UCDWraith"
 permalink: /
 header:
   overlay_image: /assets/images/ucdwraith-hero.png
@@ -10,7 +9,6 @@ header:
       url: "/work/"
     - label: "Read Writing"
       url: "/posts/"
-excerpt: "Identity. Governance. Automation. Practical cloud security and operational reporting for complex environments."
 feature_row:
   - image_path: /assets/images/identity.jpg
     alt: "Identity and access"
