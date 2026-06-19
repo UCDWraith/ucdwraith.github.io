@@ -1,15 +1,69 @@
 ---
 permalink: /about/
-title: "About"
+title: "About UCDWraith"
+layout: single
+author_profile: true
 ---
 
-I focus on delivering Microsoft solutions. I will architect and implement these solutions aligned to best practice for your organisation and get the job done.
+# Identity. Governance. Automation.
 
-The reality for many organisations is they carry technical debt, the alleviation of which is often, not simply a technical challenge but political, fiscal or both. I’ve worked across a wide range of both Public and Private organisations and seen the same opportunities in both. If there is the will to improve the environment, I can help you and I’ll deliver your solution.
+Helping organisations modernise Microsoft platforms through practical security, governance and operational excellence.
 
-I obtained my first Microsoft certification in April 2003 which led to successive MCSA, MCSE _(both definitions)_ and MCITP qualifications across Windows 2000, Server 2003, 2008, 2012 and 2016, certifications in Exchange, SQL, Office 365 and a charter certification in ‘Cloud Platform and Infrastructure’ so it’s fair to say I’ve consistently transitioned through the technologies evolution.
+---
 
-I am a strong advocate of continuous learning and because of this I am confident in positioning your organisation to maximize its current capabilities while being ready to leverage a more idealised future state as your teams’ capabilities and confidence matures.
+## About UCDWraith
+
+I'm Paul Shortt, a Microsoft cloud architect and security specialist focused on identity, governance, automation and operational reporting.
+
+Technology challenges are rarely purely technical. Most organisations carry some level of technical debt, competing priorities, budget constraints and operational risk. Successful transformation comes from understanding those realities and designing solutions that improve security, governance and capability while remaining practical to implement.
+
+Over the past two decades I have worked across public and private sector environments, helping organisations modernise infrastructure, strengthen identity controls, improve governance and automate operational processes. My approach combines strategic thinking with hands-on implementation, ensuring solutions are not only well designed but successfully delivered.
+
+---
+
+## Areas of Focus
+
+### Identity & Access
+
+Modern authentication, phishing-resistant MFA, passkeys, privileged access management, identity governance and Zero Trust adoption.
+
+### Azure Governance
+
+Management group strategy, Azure Policy, compliance reporting, landing zones and operational governance frameworks.
+
+### Automation & Platform Engineering
+
+PowerShell, Azure DevOps, Logic Apps, managed identities, infrastructure automation and repeatable operational processes.
+
+### Security & Operational Visibility
+
+Executive reporting, Power BI dashboards, security posture improvement and actionable operational insights.
+
+---
+
+## How I Work
+
+My goal is not simply to deploy technology.
+
+I help organisations:
+
+- Understand their current state
+- Identify technical and operational risks
+- Define a realistic target state
+- Build a practical roadmap
+- Deliver measurable outcomes
+
+The articles and case studies on this site are designed to showcase not only completed solutions, but the thinking behind them — the design decisions, trade-offs, lessons learned and operational outcomes that shaped the final result.
+
+---
+
+## Experience
+
+My first Microsoft certification was achieved in 2003 and I've continually evolved alongside the Microsoft ecosystem through on-premises infrastructure, virtualisation, cloud transformation, Microsoft 365, Azure and modern security platforms.
+
+This breadth of experience allows me to bridge the gap between legacy environments and modern cloud architectures while remaining focused on operational reality rather than theoretical perfection.
+
+---
 
 ## Qualifications and Certifications
 

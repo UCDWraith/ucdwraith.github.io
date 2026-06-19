@@ -13,16 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Paul Shortt
-email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
+title: UCDWraith
+subtitle: Identity. Governance. Automation.
+description: >-
+  Practical cloud identity, Azure governance, automation and security modernisation
+  from design through to operational reporting.
 github_username: UCDWraith
-minimal_mistakes_skin: dirt # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "default"
+minimal_mistakes_skin: dark
 search: true
+timezone: Australia/Brisbane
 
 # Build settings
 markdown: kramdown
@@ -59,8 +58,9 @@ plugins:
 
 author:
   name   : "Paul Shortt"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Living and building Microsoft infrastructure solutions since the turn of the century."
+  avatar : "/assets/images/UCDWraith-logo.png"
+  bio    : "Cloud identity, Azure governance and automation specialist."
+  location: "Brisbane, Australia"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
@@ -104,6 +104,7 @@ defaults:
       read_time: true
       comments: true
       share: true
+      toc: true
       related: true
   # _pages
   - scope:
