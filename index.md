@@ -13,10 +13,6 @@ header:
       url: "/posts/"
 excerpt: "Identity. Governance. Automation. Practical cloud security and operational reporting for complex environments."
 
-## Solutions that deliver outcomes
-
-I help organisations strengthen identity, enforce governance, automate operations and improve security visibility — with practical solutions and measurable results.
-
 feature_row:
   - image_path: /assets/images/identity.png
     alt: "Identity and access"
