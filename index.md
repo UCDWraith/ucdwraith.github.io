@@ -1,5 +1,6 @@
 ---
 layout: splash
+title: ""
 permalink: /
 header:
   overlay_image: /assets/images/ucdwraith-hero.png
